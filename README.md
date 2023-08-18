@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @RealKrazy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I require no introduction so I will just write about the technologies I'm learning and working with:
 
-<!---
-RealKrazy/RealKrazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **C#** - good for software and web development; the first serious programming language I've learned
+- **Rust** - awesome in general but especially for CLI, quick prototyping, and robust error handling
+- **Zig** - good replacement for the good old C. apparently quicker than Assembly...
+- **Haskell** - a really hard purely functional language to think differently. prototyping in it feels exceptionally quick
 
-ok you see im too lazy to change this but i definitely will in the future... ignore it for now i guess?
+I would also like to learn: **Go**, **OCaml**, **PHP** (THEY SAY IT HAS IMPROVED, OK? plus never tried it), and **more I will add...**
+
+**Note:** if any of this information is outdated, as it very much may be, sorry.
